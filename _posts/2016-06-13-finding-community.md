@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Finding Community
-datePublished: '2016-06-16T07:26:07.772Z'
-dateModified: '2016-06-16T07:25:15.356Z'
+datePublished: '2016-06-16T07:31:07.333Z'
+dateModified: '2016-06-16T07:29:52.561Z'
 title: ''
 author: []
 sourcePath: _posts/2016-06-13-finding-community.md
